@@ -1,0 +1,23 @@
+{
+  "name": "imagex",
+  "version": "0.0.1",
+  "description": "service to manipulate images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/khanghoang/ImageX.git"
+  },
+  "author": "Khang Hoang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/khanghoang/ImageX/issues"
+  },
+  "homepage": "https://github.com/khanghoang/ImageX#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "graphicsmagick-stream": "^2.1.2"
+  }
+}
