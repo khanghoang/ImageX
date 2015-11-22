@@ -19,5 +19,6 @@
   "dependencies": {
     "express": "^4.13.3",
     "graphicsmagick-stream": "^2.1.2"
-  }
+  },
+  { "engines" : { "node" : "4.2.2" } }
 }
